@@ -35,5 +35,5 @@ This project demonstrates **unsupervised anomaly detection** using **DBSCAN**, a
 
 1. Clone the repository
 ```bash
-git clone https://github.com/shwetapardhi/dbscan-outlier-detection.git
+git clone https://github.com/shwetapardhi0/dbscan-outlier-detection.git
 cd dbscan-outlier-detection
